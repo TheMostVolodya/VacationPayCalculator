@@ -4,15 +4,15 @@ ___
 #### Минимальные требования: Приложение принимает твою среднюю зарплату за 12 месяцев и количество дней отпуска - отвечает суммой отпускных, которые придут сотруднику.
 #### При запросе также есть возможность указать точные дни ухода в отпуск.
 #### 1. Пример отправки GET запроса:
-![](C:\Users\Vladimir\Desktop\prim1.png)
+![](https://github.com/TheMostVolodya/VacationPayCalculator/blob/main/prim1.png)
 ___
 
 #### 2. Пример отправки GET запроса:
-![](C:\Users\Vladimir\Desktop\prim2.png)
+![](https://github.com/TheMostVolodya/VacationPayCalculator/blob/main/prim2.png)
 ___
 
 #### 3. Пример отправки неудачного GET запроса: 
-![](C:\Users\Vladimir\Desktop\prim3.png)
+![](https://github.com/TheMostVolodya/VacationPayCalculator/blob/main/prim3.png)
 ___
 ## **Используемые технологии**
 + #### Apache Maven
